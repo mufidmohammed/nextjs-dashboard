@@ -34,7 +34,6 @@ export default function Page() {
                 width={1000}
                 height={760}
                 className="hidden md:block"
-                alt="Screenshot of Acme's dashboard"
             />
             <Image
                 src="/hero-mobile.png"
